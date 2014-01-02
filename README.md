@@ -1,0 +1,4 @@
+DropPartyWand
+=============
+
+simple Bukkit plugin
