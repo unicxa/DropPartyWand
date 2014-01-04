@@ -1,0 +1,9 @@
+name: DropPartyStick
+main: com.sickray34s.DropPartyLogic
+authors: [sickray34s]
+version: '5.0'
+description: DropPartyStick plugin by sickray34s use a blaze rod and left click air.
+permissions:
+    dps.wand:
+        description: DropPartyWand perms
+        default: op
