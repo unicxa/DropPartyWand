@@ -1,4 +1,4 @@
-A/*code by sickray34s (A.K.A) Kevin Connelly
+/*code by sickray34s (A.K.A) Kevin Connelly
  * 1.7.4 version 
  * beta stage
  */
