@@ -36,7 +36,7 @@ public class DropPartyLogic extends JavaPlugin implements Listener {
 		
 		
 			
-			
+		//Event 	
 		@EventHandler
 		public void onPlayerUse(PlayerInteractEvent event){
 		    
