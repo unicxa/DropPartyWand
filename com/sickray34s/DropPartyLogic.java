@@ -44,7 +44,10 @@ public class DropPartyLogic extends JavaPlugin implements Listener {
 				if(event.getPlayer().getItemInHand().getType().equals(Material.BLAZE_ROD) && event.getPlayer().hasPermission("dps.wand")){
 					Location loc = event.getPlayer().getLocation();
 			    	  World world = event.getPlayer().getWorld();
+			    	  
+			    	          //Material Array / list
 					  Material[] mat = {Material.GOLDEN_APPLE, Material.DIAMOND, Material.GOLD_INGOT, Material.EYE_OF_ENDER, Material.OBSIDIAN, Material.EMERALD, Material.IRON_BLOCK};
+					  //itemstack Material selecter
 					  ItemStack item = new ItemStack(mat[(int) (Math.random() * mat.length )], 1);
 					  Item postitem = world.dropItem(loc, item);
 					  event.getPlayer().getWorld().playSound(loc,Sound.NOTE_SNARE_DRUM,1, 0);
