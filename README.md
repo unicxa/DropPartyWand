@@ -19,7 +19,7 @@ our Bukkit page can be found here [help](http://dev.bukkit.org/bukkit-plugins/dr
 
 Version
 ------------------
-DropPartyWandv5.1
+DropPartyWandv5.2
 1.7.2-R02
 
 
@@ -29,9 +29,10 @@ N/A
 
 Fixes
 ------------------
-N/A
++added items.yml
+
 
 Planed
 ------------------
-+ Item Config
-+ Splash Text on plugin Enable
+N/A
+
