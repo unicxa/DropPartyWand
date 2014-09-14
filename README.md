@@ -8,6 +8,7 @@ the main classes can be found here [help](https://github.com/unicxa/DropPartyWan
 API 
 ------------------
 The API is just CraftBukkit-1.7.2-R02 so far.
+works on on 1.7.10
 
 
 
